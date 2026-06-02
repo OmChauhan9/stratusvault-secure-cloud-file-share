@@ -386,4 +386,4 @@ M.S. Software Engineering, Arizona State University
 
 - GitHub: [OmChauhan9](https://github.com/OmChauhan9)
 - LinkedIn: [Om Chauhan](https://www.linkedin.com/in/om-chauhan-9a567623b)
-- Portfolio: [omchauhan.dev](https://omchauhan.dev)
+- Portfolio: [omchauhan](https://omchauhan9.github.io/)
